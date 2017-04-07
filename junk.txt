@@ -1,3 +1,6 @@
 Just some junk to put in the repository
 I'll edit this later
 I'll go read up on cURL and add some commentary as a next step.
+cURL is a utility for transfering a data to or from a server using one of the common protocols, i.e.
+HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP or FILE.  It's meant to work without user
+intervention (scripting)
