@@ -1,0 +1,3 @@
+Just some junk to put in the repository
+I'll edit this later
+I'll go read up on cURL and add some commentary as a next step.
