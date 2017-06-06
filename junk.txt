@@ -7,3 +7,4 @@ intervention (scripting)
 Oops!  Forgot to add a commit comment.
 7/6/2017 In Ubuntu 14.04 you have to install open-ssh to enable remote login
 Also, xRDP is a (some say) better utility than VNC for remote desktop control.  Install that, too.
+Now this file is on firstBranch.  I'll commit this (only changed this line), then do a pull request.
