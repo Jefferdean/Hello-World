@@ -6,3 +6,7 @@ Learning how to create a new directory and add files to it
 #. Hmmm...squirrely behavior.  It takes Github a few minutes to sync up with
    the Desktop.  I had to open the master branch, then re-open the Patch2 branch
    to see the pushed file.
+#  Aha!  In Github Desktop, be sure to commit the changed file AND push it to
+   Github.  Use the small icon at the top of the GUI.
+#  And be sure to add a comment in Desktop, otherwise it won't commit the
+   changes.
