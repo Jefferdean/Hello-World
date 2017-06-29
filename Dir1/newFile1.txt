@@ -1,1 +1,5 @@
 Learning how to create a new directory and add files to it
+#. Now I'm using Notepad++ to edit the files.
+#. I've cloned HelloWorld to my local drive, and am watching it with Github Desktop
+#. Let's see what happens when I save this file.  It should show up in Github
+   Desktop as a changed file, then I can push (commit) it and do a pull request
