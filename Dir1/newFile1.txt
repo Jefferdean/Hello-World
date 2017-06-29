@@ -1,1 +1,12 @@
 Learning how to create a new directory and add files to it
+#. Now I'm using Notepad++ to edit the files.
+#. I've cloned HelloWorld to my local drive, and am watching it with Github Desktop
+#. Let's see what happens when I save this file.  It should show up in Github
+   Desktop as a changed file, then I can push (commit) it and do a pull request
+#. Hmmm...squirrely behavior.  It takes Github a few minutes to sync up with
+   the Desktop.  I had to open the master branch, then re-open the Patch2 branch
+   to see the pushed file.
+#  Aha!  In Github Desktop, be sure to commit the changed file AND push it to
+   Github.  Use the small icon at the top of the GUI.
+#  And be sure to add a comment in Desktop, otherwise it won't commit the
+   changes.
